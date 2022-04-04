@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harmish Panchal
 - 👀 I’m intrested in Technical Support, Data Analytics, Data Visualization, Blockchain, Solidity, DApps
-- 🌱 I’m currently pursuing FinTech Bootcamp from University of Toronto
+- 🌱 FinTech Bootcamp from University of Toronto
 - 📫 You can contact me via email - harmishpanchal16@gmail.com
 
 <!---
