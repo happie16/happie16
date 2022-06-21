@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harmish Panchal
-- 👀 I’m intrested in Technical Support, Data Analytics, Data Visualization, Blockchain, Solidity, DApps, Smart Contracts
+- 👀 I’m intrested in Data Analytics, Data Visualization, Blockchain, Solidity, DApps, Smart Contracts
 - 🌱 FinTech Bootcamp from University of Toronto
 - 📫 You can contact me via email - harmishpanchal16@gmail.com
 
