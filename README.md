@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Harmish Panchal
-- 👀 I’m intrested in Data Analytics, Data Visualization, Blockchain, Solidity, DApps, Smart Contracts
-- 🌱 FinTech Bootcamp from University of Toronto
+- 👀 I’m intrested in Project Management, Manufacturing, Data Analytics, Data Visualization
+- 🌱 Bachelor of Engineering - Mechanical Engineering
+- FinTech Bootcamp from University of Toronto
 - 📫 You can contact me via email - harmishpanchal16@gmail.com
 
 <!---
